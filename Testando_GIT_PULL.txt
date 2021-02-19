@@ -1,0 +1,5 @@
+Inserido um arquivo novo neste projeto
+Subo ele para uma branch (Pode ser a master mesmo)
+Vou em outro projeto. 
+Uso um Git Pull
+E este arquivo novo aqui, vai ser anexado ao projeto de lá.

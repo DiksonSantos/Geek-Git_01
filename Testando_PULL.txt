@@ -1,0 +1,5 @@
+Criei este arquivo no projeto "Aula_30_Clone"
+Subi ele par ao repo Git na Rede.
+Fui até outro projeto, e usei o comando "GIT PULL ORIGIN MASTER"
+
+E o arquivo .txt criado aqui, foi baixado no outro projeto que estava aberto.
