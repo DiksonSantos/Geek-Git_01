@@ -2,4 +2,8 @@ lista = [1,2,30]
 
 D = lista.append(5)
 
-print(lista)
+#print(lista)
+
+
+for I in lista:
+    print(f"Item: {I}")
